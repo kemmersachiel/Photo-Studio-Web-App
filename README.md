@@ -1,5 +1,5 @@
 # Photo-Studio-Web-App 
-![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/mbr-1.jpg)
+![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/bg.png)
 ## Project Status Update:
 This web app is a simple design of a photography studio.
 
@@ -32,9 +32,9 @@ This project is created for two users: Clients looking for a photo shoot and pho
 4. 'photostudio_db.sql' is the database file that has to be imported.
 
 ## Developed By:
-- Sachiel Kemmer - [Sachiel Kemmer](https://github.com/kemmersachiel/)
+- [Sachiel Kemmer](https://github.com/kemmersachiel/)
 
-## ✉️ Have an issues or a bug? Would like to contact?
+## Have an issues or a bug? Would like to contact?
 Report [here](https://github.com/kemmersachiel/Photo-Studio-Web-App/issues)
 
 ## If you liked the project and found it helpful
