@@ -37,6 +37,13 @@ This project is created for two users: Clients looking for a photo shoot and pho
 ## Have an issues or a bug? Would like to contact?
 Report [here](https://github.com/kemmersachiel/Photo-Studio-Web-App/issues)
 
+## Recent Projects
+
+| TestOnion | NebulaPay | FareTabs | Farmchain Finance |
+| --- | --- | --- | --- |
+| [![Testonion](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/testonion.png)](https://testonion.com) | [![NebulaPay](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/nebulapay.png)](https://nebulapay.com) | ![FareTabs](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/faretabs.png) | ![Farmchain Finance](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/farmchainfinance.png)
+
+
 ## If you liked the project and found it helpful
 Give a start 😄:star:
 
