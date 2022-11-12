@@ -1,5 +1,5 @@
 # Photo-Studio-Web-App 
-![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/main/assets/images/mbr-1.JPG)
+![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/Photo-Studio-Web-App/assets/images/mbr-1.jpg)
 ## Project Status Update:
 This web app is a simple design of a photography studio.
 
