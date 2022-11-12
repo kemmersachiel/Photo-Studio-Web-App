@@ -7,7 +7,7 @@
     <!-- /Headers -->
     <meta name="description" content="Photo Studio">
     <meta name="keywords" content="keywords here">
-    <title>About Us | Photo Studio - By Sachiel Kemmer - Freelance Developer</title>
+    <title>About Us | Photo Studio - By Sachiel Kemmer - Freelance Developer </title> 
 </head>
 
 <body>
