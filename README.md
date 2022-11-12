@@ -1,10 +1,10 @@
 # Photo-Studio-Web-App 
-![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/main/assets/images/mbr-1.jpg)
+![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/main/assets/images/mbr-1.JPG)
 ## Project Status Update:
-[x] This web app is a simple design of a photography studio.
+This web app is a simple design of a photography studio.
 
 ## Basic functionalities:
-[x] This project is created for two users: Clients looking for a photo shoot and photographers.
+This project is created for two users: Clients looking for a photo shoot and photographers.
  
 ## Languages/technologies used:
 1. [x] Frontend: HTML5, CSS3, Bootstrap, JavaScript.
