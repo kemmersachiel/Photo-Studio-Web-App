@@ -1,19 +1,21 @@
-# :mbr-1: Photo-Studio-Web-App 
-This web app is a simple design of a photography studio.
+# Photo-Studio-Web-App 
+![Product Gif](https://github.com/kemmersachiel/Photo-Studio-Web-App/blob/main/assets/images/mbr-1.jpg)
+## Project Status Update:
+[x] This web app is a simple design of a photography studio.
 
 ## Basic functionalities:
-This project is created for two users: Clients looking for a photo shoot and photographers.
+[x] This project is created for two users: Clients looking for a photo shoot and photographers.
  
-## :information_source: Languages/technologies used:
-1. Frontend: HTML, CSS, Bootstrap, JavaScript.
-2. Backend: Database-MySQLi, PHP.
+## Languages/technologies used:
+1. [x] Frontend: HTML5, CSS3, Bootstrap, JavaScript.
+2. [x] Backend: Database-MySQLi, PHP.
 
-## :exclamation: Requirements
+## Requirements
 1. Xampp Software
 2. Sublime text/Visual studio code software or any software supporting php, html, css
 3. Java Jdk
 
-## :question: How to start?
+## How to start?
 1. Download this code as a zip file.
 2. Place this entire folder in htdocs, in xampp(xampp path, installed as per your installation). 
 3. Open Xampp server, start Apache, MySQL.
@@ -23,14 +25,14 @@ This project is created for two users: Clients looking for a photo shoot and pho
 7. Paste it on any web browser and clear everything before folder name, type "localhost".
 8. Ready to go!
  
-## :information_source: The file named:
+## The file named:
 1. 'assets' contains the files for the front end pages style like images, bootstrap, css and js.
 2. 'Controller' contains the scripts for the backend connections, like creating users, login authentications etc.
 3. 'Element' contains cells of blocks repeated on multiple pages, like the header and footer.
 4. 'photostudio_db.sql' is the database file that has to be imported.
 
-## :family_man_woman_boy_boy: Team:
-- Sachiel Kemmer - [Sachiel](https://github.com/kemmersachiel)
+## Developed By:
+- Sachiel Kemmer - [Sachiel Kemmer](https://github.com/kemmersachiel/)
 
 ## ✉️ Have an issues or a bug? Would like to contact?
 Report [here](https://github.com/kemmersachiel/Photo-Studio-Web-App/issues)
